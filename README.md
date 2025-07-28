@@ -7,11 +7,10 @@ This is a lightweight web application built using Streamlit that uses a custom L
 3. Built with a simple Streamlit interface
 
 # Tech Stack
-1.Python
-2.Streamlit
-3.OpenAI API
-
-.env file for API key management
+- Python
+- Streamlit
+- OpenAI API
+- .env file for API key management
 
 #Installation
 Clone the repo:
