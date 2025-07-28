@@ -12,7 +12,9 @@ This is a lightweight web application built using Streamlit that uses a custom L
 - OpenAI API
 - .env file for API key management
 
-#Installation
-Clone the repo:
-git clone https://github.com/YOUR_USERNAME/custom-fitness-llm-model.git
-cd custom-fitness-llm-model
+##  Installation
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/custom-fitness-llm-model.git
+   cd custom-fitness-llm-model
